@@ -4,7 +4,10 @@ It's coming up soon when I learn HTML and CSS.
 
 For now, I know:
 
-JavaScript
-NodeJS
-Repl.it
-CHALK
+1.JavaScript.
+
+2.NodeJS.
+
+3.Repl.it.
+
+4.CHALK.
